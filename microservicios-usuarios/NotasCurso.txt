@@ -1,0 +1,17 @@
+Caracteristicas MicroServicios
+ - Funcion única
+ - Independientes
+ - Registro y auto-descubrimiento de servicios
+ - Auto escalado y agilidad
+ - Confiabilidad y tolerancia a fallos
+ - Balanceo de cargas.
+
+>Proyecto Spring Tool
+ >Entity Alumno Package
+   > SubPackage models.entity
+   > SubPackage models.repository
+     - (Intefaz)
+   > SubPackage models.services
+   > SePackage usuarios.controller
+     - (Clase)
+
